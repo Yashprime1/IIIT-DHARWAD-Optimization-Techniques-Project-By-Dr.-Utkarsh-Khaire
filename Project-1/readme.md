@@ -15,5 +15,5 @@
 
 ## Output :
 
-[!result](https://github.com/Yashprime1/IIIT-DHARWAD-Optimization-Techniques-Project-By-Dr.-Utkarsh-Khaire/new/main/Project-1/result.png?raw=true)
+[!result](https://github.com/Yashprime1/IIIT-DHARWAD-Optimization-Techniques-Project-By-Dr.-Utkarsh-Khaire/blob/main/Project-1/result.png?raw=true)
 
