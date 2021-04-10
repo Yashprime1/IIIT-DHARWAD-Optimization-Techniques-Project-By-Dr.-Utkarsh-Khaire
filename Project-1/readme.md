@@ -5,7 +5,7 @@
 1. Implement the given optimization algorithm and write a research paper in your own words. Take any suitable problem and try to solve using given optimization algorithm. Here I have attached one research paper for your reference.
 2. Optimization Algorithm Assigned : Chaotic CSA(Crow Search Algorithm)
 
-## How I implemented it in short :
+## How Me and My Project Partner(Tej Aravind) implemented it in short :
 
 1) I wrote an objective function (30x-x^2) 
 2) I then initialized the algorithm parameters needed for algo ((M) number of crows,(Y) initial position of crows,(N) memory of  what they think where the food is hidden, AP , fl,tMax (Max iteation allowed)) 
